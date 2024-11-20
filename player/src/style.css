@@ -1,0 +1,16 @@
+h1 {
+    color: black;
+    font-size: 100px;
+
+}
+
+.cardslist {
+
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-items: center;
+    margin: 2rem;
+
+
+
+}
